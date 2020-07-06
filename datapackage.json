@@ -13,7 +13,7 @@
   "investment_id": "", 
   "id": "47cb9976-dca3-4735-a110-11fe0ab16c7a", 
   "metadata_created": "2020-07-03T11:16:32.875563", 
-  "metadata_modified": "2020-07-06T10:43:18.354224", 
+  "metadata_modified": "2020-07-06T10:43:22.086841", 
   "author": null, 
   "author_email": null, 
   "tags": [], 
@@ -241,7 +241,7 @@
       "datastore_active": false, 
       "id": "d82df691-fedb-47fd-8daf-00370d58cb18", 
       "size": 2102, 
-      "metadata_modified": "2020-07-06T10:43:18.361677", 
+      "metadata_modified": "2020-07-06T10:43:22.109508", 
       "state": "active", 
       "sha256": "5d3bf2bde08860da3206cf6654876b5a5b23f5834d37032e5ba1b9590ab71500", 
       "lfs_prefix": "uat-test-1/another-new-versioning", 
@@ -261,7 +261,7 @@
       "url": "https://dataexchange-pock.gatesfoundation.org/dataset/47cb9976-dca3-4735-a110-11fe0ab16c7a/resource/d82df691-fedb-47fd-8daf-00370d58cb18/download/scotparl2016-ne-list-abs-and-nk.csv", 
       "last_modified": null, 
       "position": 7, 
-      "revision_id": "9d337beb-6b48-4986-a551-1ef3dbbc432b", 
+      "revision_id": "21eae1fc-f55a-4fd8-bd27-9eb9b27ed718", 
       "resource_type": null
     }
   ], 
