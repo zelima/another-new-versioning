@@ -14,13 +14,13 @@
   "investment_id": "", 
   "id": "47cb9976-dca3-4735-a110-11fe0ab16c7a", 
   "metadata_created": "2020-07-03T11:16:32.875563", 
-  "metadata_modified": "2020-07-10T10:17:47.673472", 
+  "metadata_modified": "2020-07-10T10:18:21.568823", 
   "author": null, 
   "author_email": null, 
   "tags": [], 
   "state": "active", 
   "methodology": "", 
-  "version": "2.1", 
+  "version": "3", 
   "data_sharing_agreement": "", 
   "license_id": "cc-by", 
   "type": "dataset", 
@@ -302,5 +302,5 @@
     "id": "eced41c8-c097-4210-b220-c354fe6ac300", 
     "name": "uat-test-1"
   }, 
-  "revision_id": "80d08558-2901-4da5-9d44-fff4475e1960"
+  "revision_id": "7d4e1109-4a83-4900-a37a-eb18ac3c05c7"
 }
